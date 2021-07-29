@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elena-Mariya.
 - 👀 I’m interested in Front End.
 - 🌱 I’m currently learning Vue.js.
-- 💞️ I’m looking to collaborate on any interesting front end project...
+- 💞️ I’m looking to collaborate on any interesting front end projects...
 - 📫 How to reach me: ema.trayanova@gmail.com
 
 <!---
